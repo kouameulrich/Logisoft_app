@@ -635,6 +635,5 @@ class Rapport {
         signature: json['signature'],
         latitude: json['latitude'],
         longitude: json['longitude'],
-        userId: json['userId'],
       );
 }
