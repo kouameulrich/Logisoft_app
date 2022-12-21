@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992949926162",
+    "project_id": "logisoftgsc",
+    "storage_bucket": "logisoftgsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992949926162:android:fd26d53e5cfb669ca1dbcb",
+        "android_client_info": {
+          "package_name": "com.example.logisoft_gsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992949926162-jbp6b6980r6u2067jb8vbtmre3c7l5n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwtluTW5gDuK0dkDDPdyHO5ttPTTNiMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992949926162-jbp6b6980r6u2067jb8vbtmre3c7l5n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

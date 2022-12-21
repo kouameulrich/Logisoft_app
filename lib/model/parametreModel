@@ -1,0 +1,22 @@
+import 'dart:convert';
+
+import 'package:flutter/services.dart';
+
+class Parametre {
+  String id;
+  final int distancealerte;
+
+  Parametre({
+    this.id = '',
+    required this.distancealerte,
+  });
+
+  Map<String, dynamic> toJson() => {
+        'id': id,
+        'distancealerte': distancealerte,
+      };
+
+  static Parametre fromJson(Map<String, dynamic> json) => Parametre(
+        distancealerte: json['distancealerte'],
+      );
+}
